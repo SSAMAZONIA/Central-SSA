@@ -8,7 +8,7 @@ Repositório central unificado para automação jurídica, gestão de obras, inf
 Automação de tribunais (TJAP/TRT8) e scripts de varredura.
 
 ### 2. 🚧 GESTÃO DE OBRAS (RAG)
-Inteligência Artificial aplicada a áudios de WhatsApp e Financeiro (Manari/Barcelona).
+Inteligência Artificial aplicada a áudios de WhatsApp e Financeiro 
 
 ### 3. 📡 LABORATÓRIO TI
 Projetos de Redes, Câmeras (CCTV) e simulações no Packet Tracer.
